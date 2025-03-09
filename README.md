@@ -41,7 +41,7 @@
 
 **Venue:**
 
-- Primary: AISSMS IOIT **112 Lab 1st floor**
+- Primary: AISSMS IOIT **412 Lab 4st floor**
 - Alternate: AISSMS IOIT **407 Lab 4th floor** (if needed)
 
 **Expected Participants:**
